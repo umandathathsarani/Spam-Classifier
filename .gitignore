@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the datasets
+data/
+
+# Ignore the saved ML models (they can get very large)
+model/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
