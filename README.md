@@ -8,7 +8,7 @@
 An end-to-end Machine Learning pipeline that leverages Natural Language Processing (NLP) to autonomously classify text messages and emails as either "Spam" or "Ham" (legitimate). 
 
 **Developed by:** Mummullage Binuri Umanda Thathsarani  
-**Academic Affiliation:** Software Engineering Undergraduate, SLIIT
+**Academic Affiliation:** BSc (Hons) in Information Technology Specializing in Artificial Intelligence, SLIIT
 
 ---
 
