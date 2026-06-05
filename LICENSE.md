@@ -5,7 +5,7 @@
 This software, including all associated source code, documentation, scripts, and digital assets (collectively, the "Software"), is the exclusive, proprietary property of Mummullage Binuri Umanda Thathsarani. 
 
 ### 2. RESTRICTIONS ON USE
-This repository is published strictly for portfolio, academic demonstration, and personal viewing purposes. By accessing this repository, you agree to the following restrictions:
+This repository is published strictly for portfolio, personal viewing, and academic demonstration within the context of the BSc (Hons) in Information Technology Specializing in Artificial Intelligence program. By accessing this repository, you agree to the following restrictions:
 * **No Copying:** You may not duplicate, copy, or reproduce any portion of this Software.
 * **No Modification:** You may not alter, translate, or create derivative works based on this Software.
 * **No Distribution:** You may not distribute, sub-license, transmit, or sell this Software to any third party.
